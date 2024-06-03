@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '1/ Vérification intérieure',
       question: 'Montrez la commande de réglage de hauteur des feux.',
       correctAnswer:
-        "Dispositif situé en général à gauche du volant. <img src='/images/Hauteur-des-feux.jpg' alt='Commande de réglage de hauteur des feux'>",
+        "Dispositif situé en général à gauche du volant. <img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'>",
     },
     {
       category: '1/ Sécurité Routière',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '2/ Vérification Extérieure',
       question: "Montrez où s'effectue le remplissage du produit lave-glace.",
       correctAnswer:
-        "Ouvrir le capot et montrer l'orifice de remplissage. <img src='/images/Orifice-lave-glace.jpg' alt='Orifice du produit lave-glace.'>",
+        "Ouvrir le capot et montrer l'orifice de remplissage. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fc3ZYI_TmSeM%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=def90a79937a4d54abde11c7f4df95cc89a9014799350b4d7a1470285f3283e2&ipo=images' alt='Orifice du produit lave-glace.'>",
     },
     {
       category: '2/ Sécurité Routière',
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '4/ Vérification Extérieure',
       question: "Contrôlez l'état du flanc sur l'un des pneumatiques.",
       correctAnswer:
-        "En bon état (toute anomalie doit être signalée). <img src='/images/Flanc.jpg' alt='Commande de réglage de hauteur des feux'>",
+        "En bon état (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sucyconduites.com%2Fwp-content%2Fdocs%2FPNEU-1024x851.jpg&f=1&nofb=1&ipt=4a6814e3f6b3e382403356988cd58bb5ee50a1ba332402dadd91afa3ebe9e79f&ipo=images' alt='Commande de réglage de hauteur des feux'>",
     },
     {
       category: '4/ Sécurité Routière',
@@ -84,7 +84,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '5/ Vérification Intérieure',
       question: 'Faites fonctionner les essuie-glaces avants du véhicule sur la position la plus rapide.',
-      correctAnswer: "<img src='/images/Essuie-glace.jpg' alt='Commande des essuie-glaces'>",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forleansconduite.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fessuie-glace-Q5-Q69.jpg&f=1&nofb=1&ipt=229289aaf72a91fe098ba9dda46005932791112c0bf6c42fc780c93bc2ffe535&ipo=images' alt='Commande des essuie-glaces'>",
     },
     {
       category: '5/ Sécurité Routière',
