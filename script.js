@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '1/ Vérification intérieure',
       question: 'Montrez la commande de réglage de hauteur des feux.',
       correctAnswer:
-        "Dispositif situé en général à gauche du volant. <img src='https://modernblackgurl.github.io/QuizzPermis/images/Hauteur-des-feux.jpg'  alt='Commande de réglage de hauteur des feux'>",
+        "Dispositif situé en général à gauche du volant. <img src='/images/Hauteur-des-feux.jpg'  alt='Commande de réglage de hauteur des feux'>",
     },
     {
       category: '1/ Sécurité Routière',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '2/ Vérification Extérieure',
       question: "Montrez où s'effectue le remplissage du produit lave-glace.",
       correctAnswer:
-        "Ouvrir le capot et montrer l'orifice de remplissage. <img src='./images/Orifice-lave-glace.jpg' alt='Orifice du produit lave-glace.'>",
+        "Ouvrir le capot et montrer l'orifice de remplissage. <img src='/images/Orifice-lave-glace.jpg' alt='Orifice du produit lave-glace.'>",
     },
     {
       category: '2/ Sécurité Routière',
