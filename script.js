@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '1/ Vérification intérieure',
       question: 'Montrez la commande de réglage de hauteur des feux.',
       correctAnswer:
-        "Dispositif situé en général à gauche du volant. <img src='/images/Hauteur-des-feux.jpg'  alt='Commande de réglage de hauteur des feux'>",
+        "Dispositif situé en général à gauche du volant. <img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg'  alt='Commande de réglage de hauteur des feux'>",
     },
     {
       category: '1/ Sécurité Routière',
