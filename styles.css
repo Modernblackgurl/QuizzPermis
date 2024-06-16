@@ -44,6 +44,12 @@ h1 {
   display: none;
 }
 
+.pictoImg {
+  display: inline-block;
+  width: 15%;
+  height: 50px;
+}
+
 img {
   display: flex;
   max-width: 100%;

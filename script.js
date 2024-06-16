@@ -233,7 +233,235 @@ document.addEventListener('DOMContentLoaded', function () {
       correctAnswer:
         "Le triangle de pré-signalisation doit être placé à une distance d'environ 30 m de la panne ou de l'accident, ou avant un virage, ou un sommet de côte.",
     },
-    /* <img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'> */
+    //14
+    {
+      category: '14/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement de tous les clignotants côté trottoir.",
+      correctAnswer:
+        "Mettez le contact, actionnez les clignotants côté trottoir. Ensuite allez vérifier les feux correspondants, c'est-à-dire devant, derrière et au milieu pour les répétiteurs latéraux s'il y en a un, du côté droit de la voiture. Indiquez s'ils sont : propre, en bon état, fonctionne et signaler toute anomalie pour chaque feu.",
+    },
+    {
+      category: '14/ Sécurité Routière',
+      question: "Quelle est la signification d'un clignotement plus rapide ?",
+      correctAnswer: "Non fonctionnement de l'une des ampoules.",
+    },
+    {
+      category: '14/ Premiers Secours',
+      question:
+        "Quelles sont les conditions pour réaliser le dégagement d'urgence d'une victime en présence d'un danger réel, immédiat et non contrôlable ?",
+      correctAnswer:
+        'La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûre de pouvoir réaliser le dégagement de la victime.',
+    },
+    //15
+    {
+      category: '15/ Vérification Intérieure',
+      question: "Montrez le voyant d'alerte signalant une pression insuffisante d'huile dans le moteur.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frivegaucheblois.fr%2Fwp-content%2Fuploads%2F2020%2F05%2Fimage-5.png&f=1&nofb=1&ipt=99d474b1c49ab4a1004df269793db8f03b2d2b4a8cb6abb3f0e64479141abcc6&ipo=images' alt='Pression insuffisante d'huile dans le moteur'>",
+    },
+    {
+      category: '15/ Sécurité Routière',
+      question: "Quelles sont les conditions à respecter pour contrôler le niveau d'huile ?",
+      correctAnswer: 'Moteur froid et sur un terrain plat.',
+    },
+    {
+      category: '15/ Premiers Secours',
+      question: 'Quelles sont les 3 informations à transmettre aux services de secours ?',
+      correctAnswer: "Le numéro de téléphone à partir duquel l'appel est émis, la nature et la localisation la plus précise du problème.",
+    },
+    //16
+    {
+      category: '16/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement du ou des feux de brouillard arrière.",
+      correctAnswer:
+        "Mettez le contact, et actionnez-le ou les feux de brouillard arrière (pensez à actionner les feux de croisement avant). Ensuite allez vérifier les feux correspondants, c'est-à-dire à l'arrière de la voiture. Indiquez s'ils sont : propre, en bon état, fonctionne et signaler toute anomalie pour chaque feu.<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprismic-io.s3.amazonaws.com%2Fornikar%2F70b6fb9343761737555f647c441d1357dce906b6_brouillard-arriere.jpg&f=1&nofb=1&ipt=4afbe9aca5be818a4881d9bd0f0cd682706c67b74c5a1d692fd4910f08a0bf54&ipo=images' alt='Feux de brouillard arrière.'>",
+    },
+    {
+      category: '16/ Sécurité Routière',
+      question: 'Dans quel cas on utilise les feux de brouillard arrière ?',
+      correctAnswer: 'Par temps de brouillard et neige.',
+    },
+    {
+      category: '16/ Premiers Secours',
+      question: "Par quels moyens doit être réalisée l'alerte des secours ?",
+      correctAnswer:
+        "L'alerte doit être donnée à l'aide d'un téléphone portable ou, à défaut, d'un téléphone fixe ou d'une borne d'appel d'urgence.",
+    },
+    //17
+    {
+      category: '17/ Vérification Intérieure',
+      question: "Vérifiez la présence de l'éthylotest.",
+      correctAnswer: "Voir avec le moniteur où est l'éthylotest.",
+    },
+    {
+      category: '17/ Sécurité Routière',
+      question: "A partir de quel taux d'alcoolémie, en période de permis probatoire, est-on en infraction ?",
+      correctAnswer: "0.2 g/l, c'est à dire 0 verre, car dès le 1er verre ce seuil peut être dépassé.",
+    },
+    {
+      category: '17/ Premiers Secours',
+      question: "Quel comportement doit-on adopter en présence d'une victime en arrêt cardique ?",
+      correctAnswer:
+        '- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.',
+    },
+    //18
+    {
+      category: '18/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l'avant et à l'arrière.",
+      correctAnswer:
+        "Vérification des feux, propres, en bon état et fonctionnement (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faaautocarelv.com%2Fwp-content%2Fuploads%2F2018%2F03%2FAA-Auto-Care.jpg&f=1&nofb=1&ipt=3bbfe1d559a58ba14554a0e5222cee7f289a6c0fa5e3578cafa609a57794ef2b&ipo=images' alt='Feux de détresse'>",
+    },
+    {
+      category: '18/ Sécurité Routière',
+      question: 'Dans quel cas doit-on utiliser les feux de détresse?',
+      correctAnswer: "En cas de panne, d'accident ou de ralentissement important.",
+    },
+    {
+      category: '18/ Premiers Secours',
+      question: 'Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?',
+      correctAnswer: 'Si la victime ne répond pas, ne réagit pas et respire.',
+    },
+    //19
+    {
+      category: '19/ Vérification Intérieure',
+      question: 'Montrez la commande de réglage du volant.',
+      correctAnswer: "Le candidat montre l'emplacement. Il ne lui est pas demandé de changer son réglage.",
+    },
+    {
+      category: '19/ Sécurité Routière',
+      question: 'Pourquoi est-il important de bien régler son volant? Citez deux exemples.',
+      correctAnswer:
+        "- Le confort de conduite. - L'accessibilité aux commandes. - La visibilité du tableau de bord. - L'efficacité des airbags.",
+    },
+    {
+      category: '19/ Premiers Secours',
+      question: 'Dans quelle situation peut-on déplacer une victime ?',
+      correctAnswer: "En présence d'un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
+    },
+    //20
+    {
+      category: '20/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
+      correctAnswer:
+        "Actionnez les feux de route. Ensuite allez vérifier les feux correspondants, c'est-à-dire devant et derrière de chaque côté de la voiture. Indiquez s'ils sont : propre, en bon état, fonctionne et signaler toute anomalie pour chaque feu. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.bWyW2ubtZiuisvR0_OdMKwHaE8%26pid%3DApi&f=1&ipt=e93d2925d233f5e07821228b77734601a090c32c0c0a7b0bfac9ea6ec6318299&ipo=images' alt='Feux de route'>",
+    },
+    {
+      category: '20/ Sécurité Routière',
+      question: "Citez un cas d'utilisation de l'appel lumineux",
+      correctAnswer: "- Pour avertir de son approche. - En cas de danger. - A la place de l'avertisseur sonore.",
+    },
+    {
+      category: '20/ Premiers Secours',
+      question: "En cas de panne ou d'accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+      correctAnswer:
+        "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme 'gilet jaune' peut être utilisé par le candidat.",
+    },
+    //21
+    {
+      category: '21/ Vérification Intérieure',
+      question: "Positionnez la commande pour diriger l'air vers le pare-brise.",
+      correctAnswer:
+        "Tournez 1 en position <img class='pictoImg' src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VLlilIgx752wfrmhvhxxfgHaDJ%26pid%3DApi&f=1&ipt=b998fb918f58e14b3f8a7f638bd0e90f8147bbd9a00cc436b3bf60c13af0dd28&ipo=images' alt='Picto désembuage'>, tournez 2 en position 4 et tournez 3 en position « chaud ». <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud62806_3_1.jpg' alt='Feux de route'>",
+    },
+    {
+      category: '21/ Sécurité Routière',
+      question: 'Citez deux éléments complémentaires permettant un désembuage efficace.',
+      correctAnswer: "- La commande de vitesse de ventilation. - La commande d'air chaud. - La climatisation.",
+    },
+    {
+      category: '21/ Premiers Secours',
+      question: "Quel est l'objectif du Signal d'Alerte et d'Information des Populations (SAIP) ?",
+      correctAnswer: "Avertir la population d'un danger imminent ou qu'un événement grave est en train de se produire.",
+    },
+    //22
+    {
+      category: '22/ Vérification Extérieure',
+      question: "Montrez où doit s'effectuer le contrôle du niveau d'huile moteur.",
+      correctAnswer:
+        "Le candidat montre la jauge. Pas de manipulation exigée. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbardahl.fr%2Fgetmedia%2F69d91063-6475-46ce-beb0-8e2176998d54%2FBardahl_Niveau_Huile.jpg%3B.aspx%3Fext%3D.jpg%26width%3D993&f=1&nofb=1&ipt=223d470ef0f5e02fff4b155e938ea9339b249c71e6cbfb7ea915aa8fae5dba7f&ipo=images' alt='Jauge huile moteur'>",
+    },
+    {
+      category: '22/ Sécurité Routière',
+      question: "Quel est le principal risque d'un manque d'huile moteur ?",
+      correctAnswer: 'Un risque de détérioration ou de casse du moteur.',
+    },
+    {
+      category: '22/ Premiers Secours',
+      question: "Comment est diffusée l'alerte émise par le Signal d'Alerte et d'Information aux Populations (SAIP) ?",
+      correctAnswer: "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l'application SAIP.",
+    },
+    //23
+    {
+      category: '23/ Vérification Intérieure',
+      question: "Montrez le voyant d'alerte signalant un défaut de batterie.",
+      correctAnswer:
+        "Le candidat montre la jauge. Pas de manipulation exigée. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.MrrtusiyteLLcN3QKseMLgHaEC%26pid%3DApi&f=1&ipt=5556dc191696a0490acb6bed42a7f3baea2ddcd361239f3e0407d828a098e6c1&ipo=images' alt='Voyant défaut de batterie'>",
+    },
+    {
+      category: '23/ Sécurité Routière',
+      question: "Qu'est-ce qui peut provoquer la décharge de la batterie, moteur éteint ?",
+      correctAnswer: 'Les feux ou accessoires électriques en fonctionnement.',
+    },
+    {
+      category: '23/ Premiers Secours',
+      question: 'A partir de quel âge peut-on suivre une formation aux premiers secours ?',
+      correctAnswer: 'A partir de 10 ans.',
+    },
+    //24
+    {
+      category: '24/ Vérification Extérieure',
+      question: "Montrez l'emplacement de la batterie du véhicule.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5wuksq1Fdxk%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=f7d0fe47d3870c62fba4ceefaf35cde12f3d04a05f0b66afc7bd799ed5f35b32&ipo=images' alt='Batterie du véhicule'>",
+    },
+    {
+      category: '24/ Sécurité Routière',
+      question: 'Quelle est la solution en cas de panne de batterie pour démarrer le véhicule sans le déplacer ?',
+      correctAnswer: 'Brancher une deuxième batterie en parallèle (ou les + ensemble et les - ensemble) ou la remplacer.',
+    },
+    {
+      category: '24/ Premiers Secours',
+      question: 'Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardique ?',
+      correctAnswer: 'Car les lésions du cerveau, surviennent dès les premières minutes.',
+    },
+    //25
+    {
+      category: '25/ Vérification Intérieure',
+      question: 'De quelle couleur est le voyant qui indique une défaillance du système de freinage ?',
+      correctAnswer:
+        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.-aQ1072SdkyNeQJvz3cYiQHaE7%26pid%3DApi&f=1&ipt=e99146ae9aeb879855e06d024259a082b00424ed47c526ea8bae60361ae6f0b9&ipo=images' alt='Voyant de défaillance du système de freinage'>",
+    },
+    {
+      category: '25/ Sécurité Routière',
+      question: 'Quel est le risque de circuler avec un frein de parking mal desserré ?',
+      correctAnswer: 'Une dégradation du système de freinage.',
+    },
+    {
+      category: '25/ Premiers Secours',
+      question: "Hors autoroute ou endroit dangereux, en cas de panne ou d'accident, où doit être placé le triangle de pré-signalisation ?",
+      correctAnswer:
+        "Le triangle de pré-signalisation doit être placé à une distance d'environ 30 m de la panne ou de l'accident, ou avant un virage, ou un sommet de côte.",
+    },
+    //26
+    {
+      category: '26/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
+      correctAnswer:
+        "Allumer les feux de croisement. Vérification des feux, propres en bon état et fonctionnent (toute anomalie doit être signalée). <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud56150_1_1.jpg' alt='Feux de croisement'>",
+    },
+    {
+      category: '26/ Sécurité Routière',
+      question: "Quelles sont les conséquences d'un mauvais réglage des feux de croisement.",
+      correctAnswer: "Une mauvaise vision vers l'avant et un risque d'éblouissement des autres usagers.",
+    },
+    {
+      category: '26/ Premiers Secours',
+      question: 'Dans quelle situation peut-on déplacer une victime ?',
+      correctAnswer: "En présence d'un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
+    },
+    /*Intérieure 
+    Extérieure
+    <img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'> */
   ];
 
   let userAnswers = [];
