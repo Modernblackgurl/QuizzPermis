@@ -459,9 +459,698 @@ document.addEventListener('DOMContentLoaded', function () {
       question: 'Dans quelle situation peut-on déplacer une victime ?',
       correctAnswer: "En présence d'un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
     },
-    /*Intérieure 
-    Extérieure
-    <img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'> */
+    //27
+    {
+      category: '27/ Vérification Intérieure',
+      question: "Montrez le voyant d'alerte signalant une température trop élevée du liquide de refroidissement.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.prismic.io%2Fornikar%2Fc8e71fc360514d1721540bcf19b1e324415dceb4_voyant-liquide-refroidissement.jpg%3Fauto%3Dcompress%2Cformat&f=1&nofb=1&ipt=3411af983cb2f5c64709c4adcd6880ab5a5f3f8962d8767b63089b915926dbf7&ipo=images' alt='Voyant liquide de refroidissement'>",
+    },
+    {
+      category: '27/ Sécurité Routière',
+      question: "Quelle est la conséquence d'une température trop élevée du liquide de refroidissement.",
+      correctAnswer: 'Une surchauffe ou une casse du moteur.',
+    },
+    {
+      category: '27/ Premiers Secours',
+      question:
+        "Lors d'un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      correctAnswer:
+        "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu'à l'arrivée des secours.",
+    },
+    //28
+    {
+      category: '28/ Vérification Extérieure',
+      question: "Vérifiez l'état et la propreté des dispositifs réfléchissants.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forleansconduite.com%2Fwp-content%2Fuploads%2F2018%2F01%2FQ28.jpg&f=1&nofb=1&ipt=3541d83172694c4f438c713f8771cdbc345321c3a338252ac06a67082f5b73ec&ipo=images' alt='dispositifs réfléchissants'>",
+    },
+    {
+      category: '28/ Sécurité Routière',
+      question: "Quelle est l'utilité des dispositifs réfléchissants ?",
+      correctAnswer: 'Rendre visible le véhicule la nuit',
+    },
+    {
+      category: '28/ Premiers Secours',
+      question: 'A quel moment pouvez-vous mettre fin à un appel avec les secours?',
+      correctAnswer: 'Uniquement lorsque notre correspondant nous invite à le faire.',
+    },
+    //29
+    {
+      category: '29/ Vérification Intérieure',
+      question: "Montrez le voyant signalant la mauvaise fermeture d'une portière.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-strapi-images-prod.imgix.net%2F0043c_H_65fb5d1295.jpg%3Fw%3D1080%26q%3D75&f=1&nofb=1&ipt=d580b39b1467aba06e927372a05c1db0cf7fb884ac62b3d9113cc62d18b096c4&ipo=images' alt='Voyant signalant la mauvaise fermeture d'une portière'>",
+    },
+    {
+      category: '29/ Sécurité Routière',
+      question: "Quelle précaution dois-je prendre pour que les enfants installés à l'arrière ne puissent pas ouvrir leur portière ?",
+      correctAnswer: 'Actionner la sécurité enfant sur les deux portières arrière.',
+    },
+    {
+      category: '29/ Premiers Secours',
+      question: "Citez les 3 manières d'évaluer l'état de conscience d'une victime.",
+      correctAnswer:
+        "- Lui poser des questions simples ('Comment ça va ?', 'vous m'entendez ?'). - Lui secouer doucement les épaules. - Lui prendre la main en lui demandant d'exécuter un geste simple ('serrez-moi la main').",
+    },
+    //30
+    {
+      category: '30/ Vérification Extérieure',
+      question: "Contrôlez l'état, la propreté et le fonctionnement des feux de position à l'avant et à l'arrière du véhicule.",
+      correctAnswer: 'Les actionner et vérifier si ils sont propres, en bon état et fonctionnent (toute anomalie doit être signalée).',
+    },
+    {
+      category: '30/ Sécurité Routière',
+      question: 'Par temps clair, à quelle distance doivent les feux de position être visibles ?',
+      correctAnswer: 'A 150 mètres.',
+    },
+    {
+      category: '30/ Premiers Secours',
+      question: 'Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?',
+      correctAnswer: "L'arrêt respiratoire et l'arrêt cardiaque.",
+    },
+    //31
+    {
+      category: '31/ Vérification Intérieure',
+      question: 'Actionnez les feux de détresse.',
+      correctAnswer: 'Les actionner et vérifier si les feux sont propres, en bon état et fonctionnent (toute anomalie doit être signalée).',
+    },
+    {
+      category: '31/ Sécurité Routière',
+      question: 'Quand doit-on utiliser les feux de détresse ?',
+      correctAnswer: "En cas de panne, d'accident ou de ralentissement important.",
+    },
+    {
+      category: '31/ Premiers Secours',
+      question:
+        "Quels comportements adopter en cas de diffusion du signal d'alerte du Système d'Alerte et d'Information des Populations (SAIP) ?",
+      correctAnswer: "- Se mettre en sécurité - S'informer grâce aux médias des autorités - Respecter les consignes des autorités",
+    },
+    //32
+    {
+      category: '32/ Vérification Extérieure',
+      question: "Sur le flanc d'un pneumatique, désignez le repère du témoin d'usure de la bande de roulement.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sucyconduites.com%2Fwp-content%2Fdocs%2Fle-rep%25C3%25A8re-du-t%25C3%25A9moin-dusure-de-la-bande-de-roulement.jpg&f=1&nofb=1&ipt=b249ec38645d86e64e339ad7ab9aa7071357945affa5790e387eacb19ec16f52&ipo=images' alt='témoin d'usure de la bande de roulement'> ",
+    },
+    {
+      category: '32/ Sécurité Routière',
+      question: "Qu'est-ce que l'aquaplanage, et quelle peut être sa conséquence ?",
+      correctAnswer: "La présence d'un film d'eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule.",
+    },
+    {
+      category: '32/ Premiers Secours',
+      question: "Si un dégagement d'urgence de la victime est nécessaire, où doit-elle être déplacée ?",
+      correctAnswer: 'Dans un endroit suffisamment éloigné du danger et de ses conséquences.',
+    },
+    //33
+    {
+      category: '33/ Vérification Intérieure',
+      question: "Montrez la commande permettant d'actionner le régulateur de vitesse.",
+      correctAnswer:
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-profilepics.s3.amazonaws.com%2Fproduction%2Fcdr%2Fimages%2Fattachments%2F000%2F005%2F550%2Foriginal%2F0054cA.jpg%3F1543304517&f=1&nofb=1&ipt=b6ed499da8d303df5503efe2a54454bc924b774a7e1bd8b3b8a2952287dccf72&ipo=images' alt='Commande de régulateur de vitesse.'> ",
+    },
+    {
+      category: '33/ Sécurité Routière',
+      question: 'Sans actionner la commande du régulateur, comment le désactiver rapidement ?',
+      correctAnswer: "En appuyant sur la pédale de frein ou d'embrayage.",
+    },
+    {
+      category: '33/ Premiers Secours',
+      question: "Sur autoroute, comment indiquer avec précision les lieux de l'accident depuis un téléphone portable ?",
+      correctAnswer: "En indiquant le numéro de l'autoroute, le sens de circulation et le point kilométrique",
+    },
+    //34
+    {
+      category: '34/ Vérification Extérieure',
+      question: 'Ouvrez la trappe à carburant et/ou vérifiez la bonne fermeture du bouchon.',
+      correctAnswer: '',
+    },
+    {
+      category: '34/ Sécurité Routière',
+      question: 'Quelles sont les précautions à prendre lors du remplissage du réservoir ?',
+      correctAnswer: 'Arrêter le moteur, ne pas fumer, ne pas téléphoner',
+    },
+    {
+      category: '34/ Premiers Secours',
+      question: "Pourquoi l'alerte auprès des services de secours doit-elle être rapide et précise ?",
+      correctAnswer: "Pour permettre aux services de secours d'apporter les moyens adaptés aux victimes dans le délai le plus court.",
+    },
+    //35
+    {
+      category: '35/ Vérification Intérieure',
+      question: "Sans l'actionner, montrez la commande de l'avertisseur sonore.",
+      correctAnswer: '',
+    },
+    {
+      category: '35/ Sécurité Routière',
+      question: "Dans quel cas peut-on utiliser l'avertisseur sonore en agglomération ?",
+      correctAnswer: 'En cas de danger immédiat.',
+    },
+    {
+      category: '35/ Premiers Secours',
+      question: 'Pourquoi ne faut-il pas laisser une personne en perte de connaissance allongée sur le dos ?',
+      correctAnswer: 'Car elle risque un étouffement par: - Des liquides présents dans la gorge. - La chute de la langue en arrière.',
+    },
+    //36
+    {
+      category: '36/ Vérification Extérieure',
+      question: "Montrez où s'effectue le remplissage de l'huile moteur.",
+      correctAnswer:
+        "<img src='http://verificationpermis.free.fr/images/huile-moteur-emplacement.jpg' alt='bouchon de remplissage de l'huile moteur'>",
+    },
+    {
+      category: '36/ Sécurité Routière',
+      question: "Quel est le risque d'un manque d'huile moteur ?",
+      correctAnswer: 'Un risque de détérioration ou de casse du moteur.',
+    },
+    {
+      category: '36/ Premiers Secours',
+      question:
+        "L'utilisation d'un Défibrillateur Automatisé (DAE) sur une victime qui n'est pas en arrêt cardique présente-t-elle un risque ?",
+      correctAnswer: 'Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardique.',
+    },
+    //37
+    {
+      category: '37/ Vérification Intérieure',
+      question: "Montrez la commande permettant de désactiver l'airbag du passager avant.",
+      correctAnswer:
+        "<img src='https://www.bfrauto.net/images/books/862/1/index.83.jpg' alt='commande pour désactiver l'airbag du passager avant.'>",
+    },
+    {
+      category: '37/ Sécurité Routière',
+      question: "Dans quelle situation doit-on désactiver l'airbag du passager avant ?",
+      correctAnswer: "Lors du transport d'un enfant à l'avant dans un siège auto, dos à la route.",
+    },
+    {
+      category: '37/ Premiers Secours',
+      question:
+        "Quelles sont les conditions pour réaliser le dégagement d'urgence d'une victime en présence d'un danger réel, immédiat et non contrôlable ?",
+      correctAnswer:
+        'La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûre de pouvoir réaliser le dégagement de la victime.',
+    },
+    //38
+    {
+      category: '38/ Vérification Extérieure',
+      question: "A l'aide de la plaque indicative, donnez la pression précononisée pour les pneumatiques arrières, véhicule chargé.",
+      correctAnswer:
+        "Si vous devez vérifier la pression lorsque les pneus sont chauds, ajoutez 0,2 à 0,3 bar à la pression recommandée. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.puretyre.co.uk%2Fwp-content%2Fuploads%2F2017%2F09%2FRenault-Clio-Tyre-Pressure-Placard.jpg&f=1&nofb=1&ipt=17b86b577922071e3a14a94e27b70a02fead3f0a58e33f14c030f9702613379b&ipo=images' alt='Pression recommandée pneu arrière.'>",
+    },
+    {
+      category: '38/ Sécurité Routière',
+      question: 'A quelle fréquence est-il préconisé de vérifier la pression des pneus ?',
+      correctAnswer: 'Chaque mois, pour une utilisation normale de son véhicule, et avant chaque long trajet.',
+    },
+    {
+      category: '38/ Premiers Secours',
+      question: "Comment et pourquoi protéger une zone de danger en cas d'accident de la route ?",
+      correctAnswer:
+        'En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident.',
+    },
+    //39
+    {
+      category: '39/ Vérification Intérieure',
+      question: "Montrez le voyant signalant l'absence de bouclage de la ceinture de sécurité du conducteur.",
+      correctAnswer:
+        "Pour l'afficher il faut enlever sa ceinture de sécurité. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprismic-io.s3.amazonaws.com%2Fornikar%2F0437dad0f96f06d707a76d50aa3a18ab8e02b82d_voyant-ceinture.jpg&f=1&nofb=1&ipt=72c03d78d732823e8fe661098c2412c41f9a09c639448e0939b3067876615e73&ipo=images' alt='Voyant signalant l'absence d'une ceinture de sécurité du conducteur.'>",
+    },
+    {
+      category: '39/ Sécurité Routière',
+      question: 'En règle générale, à partir de quel âge un enfant peut-il être installé sur le siège passager avant du véhicule ?',
+      correctAnswer: '10 ans.',
+    },
+    {
+      category: '39/ Premiers Secours',
+      question:
+        "Comment est composé le signal d'alerte du système d'Alerte et d'Information des Populations (SAIP) diffusé par les sirènes ?",
+      correctAnswer:
+        "De deux codes distincts : - le Signal National d'Alerte (SNA), variation du signal sur trois cycles successifs. - Le signal de fin d'alerte, signal continu.",
+    },
+    //40
+    {
+      category: '40/ Vérification Extérieure',
+      question: "Vérifiez le fonctionnement de l'éclairage de la plaque d'immatriculation à l'arrière.",
+      correctAnswer:
+        "Mettre en marche n'importe quel feu pour que la lumière puisse s'allumer (position ou croisement). Toute anomalie doit être signalée.",
+    },
+    {
+      category: '40/ Sécurité Routière',
+      question: "Un défaut d'éclairage de la plaque lors du contrôle technique entraîne-t-il une contre-visite ?",
+      correctAnswer: "'Oui.",
+    },
+    {
+      category: '40/ Premiers Secours',
+      question: 'Quelles sont les 3 informations à transmettre aux services de secours ?',
+      correctAnswer: "Le numéro de téléphone à partir duquel l'appel est émis, la nature et la localisation la plus précise du problème.",
+    },
+    //41
+    {
+      category: '41/ Vérification Intérieure',
+      question: "Vérifiez la présence de l'attestation d'assurance du véhicule et de sa vignette sur le pare-brise.",
+      correctAnswer: 'Dans la boîte à gant le document vert ainsi que la vignette verte sur le pare-brise.',
+    },
+    {
+      category: '41/ Sécurité Routière',
+      question: "Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l'ordre ?",
+      correctAnswer: "Le certificat d'immatriculation et le permis de conduire. Le terme 'carte de grise' est accepté.",
+    },
+    {
+      category: '41/ Premiers Secours',
+      question: "Qu'est ce qu'une hémorragie ?",
+      correctAnswer: "C'est une perte de sang prolongée qui ne s'arrête pas. Elle imbibe de sang un mouchoir en quelques secondes.",
+    },
+    //42
+    {
+      category: '42/ Vérification Extérieure',
+      question: "Indiquez où se situe la sécurité enfant sur l'une des portières à l'arrière du véhicule.",
+      correctAnswer:
+        "<img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud59114_2_2.jpg' alt='Sécurité enfant sur l'une des portières à l'arrière'>",
+    },
+    {
+      category: '42/ Sécurité Routière',
+      question: "Si la sécurité enfant est enclenchée, est-il possible d'ouvrir la portière arrière depuis l'extérieur ?",
+      correctAnswer: 'Oui.',
+    },
+    {
+      category: '42/ Premiers Secours',
+      question: "Quels sont les risques pour une personne victime d'une hémorragie ?",
+      correctAnswer: 'Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.',
+    },
+    //43
+    {
+      category: '43/ Vérification Intérieure',
+      question: 'Allumez les feux de brouillard arrières et montrez le voyant correspondant.',
+      correctAnswer:
+        "Ouvrir le capot et montrer l'orifice de remplissage. <a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de brouillard arrière. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-profilepics.s3.amazonaws.com%2Fproduction%2Fcdr%2Fimages%2Fattachments%2F000%2F005%2F469%2Foriginal%2F0045cF.jpg%3F1543304132&f=1&nofb=1&ipt=82dfd9acca030470671dbbe15ea503069d5cbd12d54d1768e998d4c64fcd7d0d&ipo=images' alt='Voyant feux de brouillard arrière'>",
+    },
+    {
+      category: '43/ Sécurité Routière',
+      question: 'Pouvez-vous utiliser les feux de brouillards par forte pluie ?',
+      correctAnswer: 'Non.',
+    },
+    {
+      category: '43/ Premiers Secours',
+      question: "Quels sont les signes d'un arrêt cardiaque ?",
+      correctAnswer: 'La victime ne répond pas, ne réagit pas et ne respire pas ou présente une respiration anormale.',
+    },
+    //44
+    {
+      category: '44/ Vérification Extérieure',
+      question: "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul.",
+      correctAnswer:
+        "Lui demander d'activer la marche arrière. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée). <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud63280_1_4.jpg' alt='Feux de recul'>",
+    },
+    {
+      category: '44/ Sécurité Routière',
+      question: 'Quelles sont les deux utilités des feux de recul ?',
+      correctAnswer: '- Eclairer la zone de recul la nuit. - Avertir les autres usagers de la manoeuvre.',
+    },
+    {
+      category: '44/ Premiers Secours',
+      question: "Qu'est ce qu'un défibrillateur automatisé externe (DAE) ?",
+      correctAnswer: "C'est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+    },
+    //45
+    {
+      category: '45/ Vérification Intérieure',
+      question: "Montrez comment régler la hauteur de l'appui-tête du siège conducteur.",
+      correctAnswer:
+        'On tire vers le haut pour le faire monter, on appuie sur le bouton tout en poussant vers le bas pour le faire descendre.',
+    },
+    {
+      category: '45/ Sécurité Routière',
+      question: "Quelle est l'utilité de l'appui-tête ?",
+      correctAnswer: 'Permet de retenir le mouvement de la tête en cas de choc et de limiter les blessures.',
+    },
+    {
+      category: '45/ Premiers Secours',
+      question: "Par quels moyens doit être réalisée l'alerte des secours ?",
+      correctAnswer:
+        "L'alerte doit être donnée à l'aide d'un téléphone portable ou, à défaut, d'un téléphone fixe ou d'une borne d'appel d'urgence.",
+    },
+    //46
+    {
+      category: '46/ Vérification Extérieure',
+      question: "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de stop.",
+      correctAnswer:
+        "Demander à l'accompagnateur d'appuyer sur la pédale de frein. Vérifier si propres, en bon état et fonctionnent bien.'>",
+    },
+    {
+      category: '46/ Sécurité Routière',
+      question: ' Quelle est la conséquence en cas de panne des feux de stop ?',
+      correctAnswer: "Un manque d'information pour les usagers suiveurs et un risque de collision.",
+    },
+    {
+      category: '46/ Premiers Secours',
+      question:
+        "Lors d'un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      correctAnswer:
+        "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu'à l'arrivée des secours.",
+    },
+    //47
+    {
+      category: '47/ Vérification Intérieure',
+      question: 'De quelle couleur est le voyant qui indique au conducteur que le feu de brouillard arrière est allumé ?',
+      correctAnswer:
+        "Orange. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-profilepics.s3.amazonaws.com%2Fproduction%2Fcdr%2Fimages%2Fattachments%2F000%2F005%2F469%2Foriginal%2F0045cF.jpg%3F1543304132&f=1&nofb=1&ipt=82dfd9acca030470671dbbe15ea503069d5cbd12d54d1768e998d4c64fcd7d0d&ipo=images' alt='Voyant feu de brouillard arrière'>",
+    },
+    {
+      category: '47/ Sécurité Routière',
+      question: 'Quelle est la différence entre un voyant orange et un voyant rouge ?',
+      correctAnswer: '- Rouge: Une anomalie de fonctionnement ou un danger. - Orange: un élément important.',
+    },
+    {
+      category: '47/ Premiers Secours',
+      question: "Qu'est ce qu'un arrêt cardiaque ?",
+      correctAnswer: "Le coeur ne fonctionne plus ou fonctionne d'une façon anarchique.",
+    },
+    //48
+    {
+      category: '48/ Vérification Extérieure',
+      question: 'Ouvrez et refermez le capot, puis vérifiez sa bonne fermeture.',
+      correctAnswer:
+        "Tire la manette dans l'habitacle situé généralement sous le volant très proche de la portière et tu entendras un 'Clac'. Là le capot se soulève légèrement. Ensuite passe la main sous le capot pour chercher une barrette et soulève le capot. Puis referme le capot en laissant tomber de quelques centimètres de hauteur. Montre sa bonne fermeture en essayant de le soulever.",
+    },
+    {
+      category: '48/ Sécurité Routière',
+      question: "En roulant, quel est le risque d'une mauvaise fermeture du capot ?",
+      correctAnswer: "Un risque d'ouverture du capot pouvant entraîner un accident.",
+    },
+    {
+      category: '48/ Premiers Secours',
+      question: "Quel est le risque principal d'un arrêt cardiaque sans intervention des secours ?",
+      correctAnswer: 'La mort de la victime qui survient en quelques minutes',
+    },
+    //49
+    {
+      category: '49/ Vérification Intérieure',
+      question: "Montrez la commande de recyclage de l'air.",
+      correctAnswer:
+        "4. <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud71440_4_1.jpg' alt='Commande de recyclage de l'air'>",
+    },
+    {
+      category: '49/ Sécurité Routière',
+      question: "Quel peut être le risque de maintenir le recyclage de l'air de manière prolongée ?",
+      correctAnswer: "Un risque de mauvaise visibilité par l'apparition de buée sur les surfaces vitrées.",
+    },
+    {
+      category: '49/ Premiers Secours',
+      question: 'Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?',
+      correctAnswer: "L'arrêt respiratoire et l'arrêt cardiaque.",
+    },
+    //50
+    {
+      category: '50/ Vérification Extérieure',
+      question: "Montrez l'orifice de remplissage du produit lave-glace.",
+      correctAnswer:
+        "Ouvrir le capot et montrer l'orifice de remplissage. <a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de route. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CCfBH8pYYMQQZ21IQc4VUAHaDa%26pid%3DApi&f=1&ipt=caff6ce0739258f29c03bf7c779a65e485e016a306814f6c0064a108384a3014&ipo=images' alt='Voyant feux de route'>",
+    },
+    {
+      category: '50/ Sécurité Routière',
+      question: "Quel est le principal risque d'une absence de liquide lave-glace ?",
+      correctAnswer: "Un risque d'éblouissement des autres usagers.",
+    },
+    {
+      category: '50/ Premiers Secours',
+      question: "Quel est l'objectif du Signal d'Alerte et d'Information des Populations (SAIP) ?",
+      correctAnswer: "Avertir la population d'un danger imminent ou qu'un événement grave est en train de se produire.",
+    },
+    //51
+    {
+      category: '51/ Vérification Intérieure',
+      question: 'Allumez les feux de route et montrez le voyant correspondant.',
+      correctAnswer:
+        "<a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de route. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CCfBH8pYYMQQZ21IQc4VUAHaDa%26pid%3DApi&f=1&ipt=caff6ce0739258f29c03bf7c779a65e485e016a306814f6c0064a108384a3014&ipo=images' alt='Voyant feux de route'>",
+    },
+    {
+      category: '51/ Sécurité Routière',
+      question: "Quel est le risque de maintenir les feux de route lors d'un croisement avec d'autres usagers ?",
+      correctAnswer: "Un risque d'éblouissement des autres usagers.",
+    },
+    {
+      category: '51/ Premiers Secours',
+      question: "Quel est l'objectif du Signal d'Alerte et d'Information des Populations (SAIP) ?",
+      correctAnswer: "Avertir la population d'un danger imminent ou qu'un événement grave est en train de se produire.",
+    },
+    //52
+    {
+      category: '52/ Vérification Extérieure',
+      question: "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
+      correctAnswer:
+        "Mettre le contact ou le moteur en marche pour les allumer. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée). <img src='https://www.largus.fr/actualite-automobile/tarifs-renault-clio-5-prix-moteurs-equipements-options-9709399-11701382-photos.html' alt='Feux diurnes'>",
+    },
+    {
+      category: '52/ Sécurité Routière',
+      question: "Quelle est l'utilité des feux diurnes ?",
+      correctAnswer: 'Rendre le véhicule plus visible le jour.',
+    },
+    {
+      category: '52/ Premiers Secours',
+      question: 'A quel moment pouvez-vous mettre fin à un appel avec les secours ?',
+      correctAnswer: 'Uniquement lorsque notre correspondant nous invite à le faire.',
+    },
+    //53
+    {
+      category: '53/ Vérification Intérieure',
+      question: 'Vérifiez la présence du constat amiable dans le véhicule.',
+      correctAnswer:
+        "Demander au moniteur le jour de l'examen. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1syos9fsbz8ei.cloudfront.net%2FImages%2FBlogImages%2Fconstat-amiable_17469.png&f=1&nofb=1&ipt=4b6af64e1a18d75a71d78b43ff5408d23ee6dd877f51c0f14db6e06e91a92f56&ipo=images' alt='Constat amiable'>",
+    },
+    {
+      category: '53/ Sécurité Routière',
+      question: "En cas d'accident, dans quel délai doit-il être transmis à l'assureur ?",
+      correctAnswer: '5 Jours.',
+    },
+    {
+      category: '53/ Premiers Secours',
+      question: "Quel est le risque principal d'un arrêt cardiaque sans intervention des secours ?",
+      correctAnswer: 'La mort de la victime qui survient en quelques minutes.',
+    },
+    //54
+    {
+      category: '54/ Vérification Extérieure',
+      question: 'Vérifiez la présence du triangle de pré-signalisation.',
+      correctAnswer: "Demander au moniteur le jour de l'examen mais souvent dans le coffre.",
+    },
+    {
+      category: '54/ Sécurité Routière',
+      question: 'Utilise-t-on le triangle de pré-signalisation sur autoroute ?',
+      correctAnswer: 'Non.',
+    },
+    {
+      category: '54/ Premiers Secours',
+      question: "Quel comportement doit-on adopter en présence d'une victime en arrêt cardique ?",
+      correctAnswer:
+        '- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.',
+    },
+    //55
+    {
+      category: '55/ Vérification Intérieure',
+      question: 'De quelle couleur est le voyant qui indique une défaillance du système de freinage ?',
+      correctAnswer:
+        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.-aQ1072SdkyNeQJvz3cYiQHaE7%26pid%3DApi&f=1&ipt=e99146ae9aeb879855e06d024259a082b00424ed47c526ea8bae60361ae6f0b9&ipo=images' alt='Voyant défaillance du système de freinage'>",
+    },
+    {
+      category: '55/ Sécurité Routière',
+      question: 'Quel est le risque de circuler avec un frein de parking mal desserré ?',
+      correctAnswer: 'Une dégradation du système de freinage.',
+    },
+    {
+      category: '55/ Premiers Secours',
+      question: 'Comment arrêter une hémorragie ?',
+      correctAnswer:
+        "En appuyant fortement sur l'endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie.",
+    },
+    //56
+    {
+      category: '56/ Vérification Extérieure',
+      question: "Montrez où s'effectue le changement d'une ampoule à l'avant du véhicule.",
+      correctAnswer:
+        "Se fait par l'arrière du bloc optique. <img src='https://tse4.mm.bing.net/th?id=OIP.1_qsHDoCUygN5wD-E0D_qQHaFj&pid=Api&P=0&h=180' alt='Emplacement ampoule à l'avant du véhicule'>",
+    },
+    {
+      category: '56/ Sécurité Routière',
+      question: "Quelles sont les conséquences en cas de panne d'un feu de croisement ?",
+      correctAnswer: "Une mauvaise visibilité et le risque d'être confondu avec un deux roues",
+    },
+    {
+      category: '56/ Premiers Secours',
+      question: "Citez les 3 manières d'évaluer l'état de conscience d'une victime.",
+      correctAnswer:
+        "- Lui poser des questions simples ('Comment ça va ?', 'vous m'entendez ?'). - Lui secouer doucement les épaules. - Lui prendre la main en lui demandant d'exécuter un geste simple ('serrez-moi la main').",
+    },
+    //57
+    {
+      category: '57/ Vérification Intérieure',
+      question: 'Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.',
+      correctAnswer:
+        "1. <img src='https://ch.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud68953_5_2.jpg' alt='Commande limiteur de vitesse'> 2. <img src='https://tse2.mm.bing.net/th?id=OIP.lSllvjOw0e5U8QBBsPFbpAHaEJ&pid=Api&P=0&h=180' alt='Commande limiteur de vitesse'>",
+    },
+    {
+      category: '57/ Sécurité Routière',
+      question: "Quelle est l'utilité d'un limiteur de vitesse ?",
+      correctAnswer: 'Ne pas dépasser la vitesse programmée par le conducteur.',
+    },
+    {
+      category: '57/ Premiers Secours',
+      question: "Quels sont les numéros d'urgence à composer ?",
+      correctAnswer: "- 18 sapeurs pompiers - 15 SAMU - 112 pour les appels d'urgence et valide dans l'ensemble de l'UE",
+    },
+    //58
+    {
+      category: '58/ Vérification Extérieure',
+      question: "Montrez où s'effectue le changement d'une ampoule à l'arrière du véhicule.",
+      correctAnswer:
+        "<a href='https://fr.e-guide.renault.com/fra/Clio-5/FEUX-ARRIERE-ET-LATERAUX-remplacement-des-lampes' target='_blank'>Page de Renault</a>",
+    },
+    {
+      category: '58/ Sécurité Routière',
+      question: "Quelles sont les conséquences en cas de panne d'un feu de position arrière ?",
+      correctAnswer: 'Être mal vu et un risque de collision.',
+    },
+    {
+      category: '58/ Premiers Secours',
+      question: "Comment est diffusée l'alerte émise par le Signal d'Alerte et d'Information aux Populations (SAIP) ?",
+      correctAnswer: "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l'application SAIP.",
+    },
+    //59
+    {
+      category: '59/ Vérification Intérieure',
+      question: "Faites fonctionner l'essuie-glace arrière du véhicule.",
+      correctAnswer:
+        "On tourne le bout de la manette de droite d'un cran en avant. <img src='https://r.search.yahoo.com/_ylt=AwrijXegWY5mTysPhH9lAQx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzY1NmRmNzJiMjBhZjQxN2EyMTRlMjhlNjBhNmExZDEyBGdwb3MDMTkEaXQDYmluZw--/RV=2/RE=1720633889/RO=11/RU=https%3a%2f%2fwww.auto-pieces-79.fr%2fpiece-detachee%2f57020195%2fcommodo-dessuie-glaces-renault-clio-4-phase-1-diesel/RK=2/RS=Sh70uWf62Rv_oXqiaWmftMMkdUw-' alt='Commande essuie-glace arrière du véhicule'> *",
+    },
+    //
+    {
+      category: '59/ Sécurité Routière',
+      question:
+        "Pour une bonne visibilité vers l'arrière, en plus de l'utilisation de l'essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ?",
+      correctAnswer: 'La commande de désembuage arrière. Le terme dégivrage peut remplacer celui de désembuage.',
+    },
+    {
+      category: '59/ Premiers Secours',
+      question: "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+      correctAnswer:
+        "- La placer en position stable sur le côté ou position latérale de sécurité. - Alerter les secours. - Surveiller la respiration de la victime jusqu'à l'arrivée des secours.",
+    },
+    //60
+    {
+      category: '60/ Vérification Extérieure',
+      question: 'Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.',
+      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/COFFRE-BAGAGES' target='_blank'>Page de Renault</a>",
+    },
+    {
+      category: '60/ Sécurité Routière',
+      question:
+        "Lorsque vous transportez un poids important dans le coffre, quelles sont les précautions à prendre en ce qui concerne les pneumatiques et l'éclairage avant ?",
+      correctAnswer: 'Augmenter la pression des pneumatiques et régler la hauteur des feux avants.',
+    },
+    {
+      category: '60/ Premiers Secours',
+      question:
+        "L'utilisation d'un Défibrillateur Automatisé (DAE) sur une victime qui n'est pas en arrêt cardique présente-t-elle un risque ?",
+      correctAnswer: 'Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardique.',
+    },
+    //61
+    {
+      category: '61/ Vérification Intérieure',
+      question: 'Indiquez où se situe les attaches de type Isofix dans le véhicule.',
+      correctAnswer:
+        "Obligatoire depuis 2011. <a href='https://fr.e-guide.renault.com/fra/Clio-5/SECURITE-ENFANTS-choix-de-la-fixation-du-siege-enfant' target='_blank'>Page de Renault</a>",
+    },
+    {
+      category: '61/ Sécurité Routière',
+      question: 'Peut-on fixer tous les sièges enfant sur des attaches de type Isofix ?',
+      correctAnswer: "Non (uniquement ceux compatibles avec ce type d'attache).",
+    },
+    {
+      category: '61/ Premiers Secours',
+      question: "Comment vérifier la respiration d'une victime ?",
+      correctAnswer: "Regarder si le ventre et la poitrine se soulèvent et sentir de l'air à l'expiration.",
+    },
+    //62
+    {
+      category: '62/ Vérification Extérieure',
+      question: 'Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.',
+      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/COFFRE-BAGAGES' target='_blank'>Page de Renault</a>",
+    },
+    {
+      category: '62/ Sécurité Routière',
+      question: 'Quels sont les risques de circuler avec des objets sur la plage arrière ?',
+      correctAnswer: "Une mauvaise visibilité vers l'arrière et un risque de projection en cas de freinage brusque ou de choc.",
+    },
+    {
+      category: '62/ Premiers Secours',
+      question: "Qu'est ce qu'une hémorragie ?",
+      correctAnswer: "C'est une perte de sang prolongée qui ne s'arrête pas. Elle imbibe de sang un mouchoir en quelques secondes.",
+    },
+    //63
+    {
+      category: '63/ Vérification Intérieure',
+      question: "Montrez sur le tableau de bord le voyant indiquant une baisse de pression d'air d'un pneumatique.",
+      correctAnswer:
+        "Obligatoire sue tous les véhicules depuis le 1er novembre 2014. <img src='https://1.bp.blogspot.com/-5q70ZndBKR4/WAJ2iKbYUQI/AAAAAAAAdek/I0WmDX9hfqEZFmHLxtMXsr-t9CaZJKqYACLcB/w1200-h630-p-k-no-nu/avertissement-de-pression-des-pneus.jpg' alt='Voyant indiquant une baisse de la pression d'air d'un pneumatique'>",
+    },
+    {
+      category: '63/ Sécurité Routière',
+      question: "A quelle fréquence est-il préconisé de vérifier la pression d'air des pneumatiques ?",
+      correctAnswer: 'Tous les mois.',
+    },
+    {
+      category: '63/ Premiers Secours',
+      question: "Qu'est ce qu'un arrêt cardiaque ?",
+      correctAnswer: "Le coeur ne fonctionne plus ou fonctionne d'une façon anarchique.",
+    },
+    //64
+    {
+      category: '64/ Vérification Extérieure',
+      question: "Procédez à l'ouverture du capot puis à sa fermeture en vous assurant de son verrouillage.",
+      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/CAPOT-MOTEUR' target='_blank'>Page de Renault</a>",
+    },
+    {
+      category: '64/ Sécurité Routière',
+      question: "Pour un capot s'ouvrant depuis l'avant du véhicule, quelle est l'utilité du dipositif de sécurité ?",
+      correctAnswer: "Empêcher l'ouverture du capot en circulation en cas de mauvais verrouillage.",
+    },
+    {
+      category: '64/ Premiers Secours',
+      question: "Quels sont les risques pour une personne victime d'une hémorragie ?",
+      correctAnswer: 'Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.',
+    },
+    //65
+    {
+      category: '65/ Vérification Intérieure',
+      question: 'Montrez la commande de réglage de hauteur des feux.',
+      correctAnswer:
+        "img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'>",
+    },
+    {
+      category: '65/ Sécurité Routière',
+      question: 'Pourquoi doit-on régler la hauteur des feux ?',
+      correctAnswer: 'Pour ne pas éblouir les autres usagers.',
+    },
+    {
+      category: '65/ Premiers Secours',
+      question: "Comment et pourquoi protéger une zone de danger en cas d'accident de la route ?",
+      correctAnswer:
+        'En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident',
+    },
+    //66
+    {
+      category: '66/ Vérification Extérieure',
+      question: 'Montrez où se situent les gicleurs de lave-glace avant.',
+      correctAnswer: 'Sur le capot en direction du pare-brise.',
+    },
+    {
+      category: '66/ Sécurité Routière',
+      question: "Quelle est la principale conséquence d'un dispositif de lave-glace défaillant ?",
+      correctAnswer: "Une mauvaise visibilité due à l'impossibilité de nettoyer le pare-brise.",
+    },
+    {
+      category: '66/ Premiers Secours',
+      question: "Qu'est ce qu'un défibrillateur automatisé externe (DAE) ?",
+      correctAnswer: "C'est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+    },
   ];
 
   let userAnswers = [];
