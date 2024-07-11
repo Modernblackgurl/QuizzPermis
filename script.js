@@ -202,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '12/ Vérification Extérieure',
       question: "Montrez où s'effectue le remplissage du liquide de refroidissement.",
       correctAnswer:
-        "Le candidat ouvre le capot et montre le bocal. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.holtsauto.com%2Ffr%2Fwp-content%2Fuploads%2Fsites%2F7%2F2017%2F06%2FFotolia_108444686_S-640x427.jpg&f=1&nofb=1&ipt=d452342174a674eb58f2b4b822d3b584e2a0aae7068af550213fe10a889f786c&ipo=images' alt='Indicateur de niveau de carburant'>",
+        "Le candidat ouvre le capot et montre le bocal. <img src='https://tse4.mm.bing.net/th?id=OIP.l71bFUSQ3JyvnVgDtCQ_6AHaDJ&pid=Api&P=0&h=180' alt='Indicateur de niveau de carburant'>",
     },
     {
       category: '12/ Sécurité Routière',
@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '21/ Vérification Intérieure',
       question: "Positionnez la commande pour diriger l'air vers le pare-brise.",
       correctAnswer:
-        "Tournez 1 en position <img class='pictoImg' src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VLlilIgx752wfrmhvhxxfgHaDJ%26pid%3DApi&f=1&ipt=b998fb918f58e14b3f8a7f638bd0e90f8147bbd9a00cc436b3bf60c13af0dd28&ipo=images' alt='Picto désembuage'>, tournez 2 en position 4 et tournez 3 en position « chaud ». <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud62806_3_1.jpg' alt='Feux de route'>",
+        "Tournez 1 en position <img class='pictoImg' src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VLlilIgx752wfrmhvhxxfgHaDJ%26pid%3DApi&f=1&ipt=b998fb918f58e14b3f8a7f638bd0e90f8147bbd9a00cc436b3bf60c13af0dd28&ipo=images' alt='Picto désembuage'>. <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud62806_3_1.jpg' alt='Feux de route'>",
     },
     {
       category: '21/ Sécurité Routière',
@@ -584,7 +584,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '34/ Vérification Extérieure',
       question: 'Ouvrez la trappe à carburant et/ou vérifiez la bonne fermeture du bouchon.',
-      correctAnswer: '',
+      correctAnswer: "On appuie dessus pour l'ouvrir.",
     },
     {
       category: '34/ Sécurité Routière',
@@ -617,7 +617,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '36/ Vérification Extérieure',
       question: "Montrez où s'effectue le remplissage de l'huile moteur.",
       correctAnswer:
-        "<img src='http://verificationpermis.free.fr/images/huile-moteur-emplacement.jpg' alt='bouchon de remplissage de l'huile moteur'>",
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbardahl.fr%2Fgetmedia%2F69d91063-6475-46ce-beb0-8e2176998d54%2FBardahl_Niveau_Huile.jpg%3B.aspx%3Fext%3D.jpg%26width%3D993&f=1&nofb=1&ipt=223d470ef0f5e02fff4b155e938ea9339b249c71e6cbfb7ea915aa8fae5dba7f&ipo=images' alt='bouchon de remplissage de l'huile moteur'>",
     },
     {
       category: '36/ Sécurité Routière',
@@ -696,7 +696,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '40/ Sécurité Routière',
       question: "Un défaut d'éclairage de la plaque lors du contrôle technique entraîne-t-il une contre-visite ?",
-      correctAnswer: "'Oui.",
+      correctAnswer: 'Oui.',
     },
     {
       category: '40/ Premiers Secours',
@@ -792,8 +792,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '46/ Vérification Extérieure',
       question: "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de stop.",
-      correctAnswer:
-        "Demander à l'accompagnateur d'appuyer sur la pédale de frein. Vérifier si propres, en bon état et fonctionnent bien.'>",
+      correctAnswer: "Demander à l'accompagnateur d'appuyer sur la pédale de frein. Vérifier si propres, en bon état et fonctionnent bien.",
     },
     {
       category: '46/ Sécurité Routière',
@@ -862,18 +861,17 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '50/ Vérification Extérieure',
       question: "Montrez l'orifice de remplissage du produit lave-glace.",
-      correctAnswer:
-        "Ouvrir le capot et montrer l'orifice de remplissage. <a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de route. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CCfBH8pYYMQQZ21IQc4VUAHaDa%26pid%3DApi&f=1&ipt=caff6ce0739258f29c03bf7c779a65e485e016a306814f6c0064a108384a3014&ipo=images' alt='Voyant feux de route'>",
+      correctAnswer: "Ouvrir le capot et montrer l'orifice de remplissage.",
     },
     {
       category: '50/ Sécurité Routière',
       question: "Quel est le principal risque d'une absence de liquide lave-glace ?",
-      correctAnswer: "Un risque d'éblouissement des autres usagers.",
+      correctAnswer: 'Une mauvaise visibilité.',
     },
     {
       category: '50/ Premiers Secours',
-      question: "Quel est l'objectif du Signal d'Alerte et d'Information des Populations (SAIP) ?",
-      correctAnswer: "Avertir la population d'un danger imminent ou qu'un événement grave est en train de se produire.",
+      question: 'Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardique ?',
+      correctAnswer: 'Car les lésions du cerveau surviennent dès les premières minutes.',
     },
     //51
     {
@@ -897,7 +895,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '52/ Vérification Extérieure',
       question: "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
       correctAnswer:
-        "Mettre le contact ou le moteur en marche pour les allumer. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée). <img src='https://www.largus.fr/actualite-automobile/tarifs-renault-clio-5-prix-moteurs-equipements-options-9709399-11701382-photos.html' alt='Feux diurnes'>",
+        'Mettre le contact ou le moteur en marche pour les allumer. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée).',
     },
     {
       category: '52/ Sécurité Routière',
@@ -1017,10 +1015,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '59/ Vérification Intérieure',
       question: "Faites fonctionner l'essuie-glace arrière du véhicule.",
-      correctAnswer:
-        "On tourne le bout de la manette de droite d'un cran en avant. <img src='https://r.search.yahoo.com/_ylt=AwrijXegWY5mTysPhH9lAQx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzY1NmRmNzJiMjBhZjQxN2EyMTRlMjhlNjBhNmExZDEyBGdwb3MDMTkEaXQDYmluZw--/RV=2/RE=1720633889/RO=11/RU=https%3a%2f%2fwww.auto-pieces-79.fr%2fpiece-detachee%2f57020195%2fcommodo-dessuie-glaces-renault-clio-4-phase-1-diesel/RK=2/RS=Sh70uWf62Rv_oXqiaWmftMMkdUw-' alt='Commande essuie-glace arrière du véhicule'> *",
+      correctAnswer: "On tourne le bout de la manette de droite d'un cran en avant.",
     },
-    //
     {
       category: '59/ Sécurité Routière',
       question:
@@ -1089,7 +1085,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '63/ Vérification Intérieure',
       question: "Montrez sur le tableau de bord le voyant indiquant une baisse de pression d'air d'un pneumatique.",
       correctAnswer:
-        "Obligatoire sue tous les véhicules depuis le 1er novembre 2014. <img src='https://1.bp.blogspot.com/-5q70ZndBKR4/WAJ2iKbYUQI/AAAAAAAAdek/I0WmDX9hfqEZFmHLxtMXsr-t9CaZJKqYACLcB/w1200-h630-p-k-no-nu/avertissement-de-pression-des-pneus.jpg' alt='Voyant indiquant une baisse de la pression d'air d'un pneumatique'>",
+        "Obligatoire sur tous les véhicules depuis le 1er novembre 2014. <img src='https://1.bp.blogspot.com/-5q70ZndBKR4/WAJ2iKbYUQI/AAAAAAAAdek/I0WmDX9hfqEZFmHLxtMXsr-t9CaZJKqYACLcB/w1200-h630-p-k-no-nu/avertissement-de-pression-des-pneus.jpg' alt='Voyant indiquant une baisse de la pression d'air d'un pneumatique'>",
     },
     {
       category: '63/ Sécurité Routière',
@@ -1122,7 +1118,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '65/ Vérification Intérieure',
       question: 'Montrez la commande de réglage de hauteur des feux.',
       correctAnswer:
-        "img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'>",
+        "<img src='https://fs.opisto.fr/Pictures/5881/2022_12/Piece-Commande-de-reglage-hauteur-de-phare-RENAULT-CLIO-5-1.0i--12V-TURBO-TCE-90-HYBRID-2875248e2d9a239ca8b64bf60c2e7e3a1a52a3d9da7f63e2cbb4c884c29dd458.jpg' alt='Commande de réglage de hauteur des feux'>",
     },
     {
       category: '65/ Sécurité Routière',
