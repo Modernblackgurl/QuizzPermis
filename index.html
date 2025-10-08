@@ -5,21 +5,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Quiz Permis de Conduire</title>
+    <title>Quiz de Révision</title>
     <script src="https://kit.fontawesome.com/fa75e0dafd.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <div class="quiz-container">
-      <h1>Quiz Permis de Conduire</h1>
-      <div id="quiz"></div>
-      <hr />
-      <div class="nextprevious">
-        <button id="previous"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
-        <button id="next"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-        <button id="submit">Soumettre</button>
+      <h1>Quiz de Révision 🌟</h1>
+
+      <label for="partSelect">Choisis une partie :</label><br /><br />
+      <select id="partSelect">
+        <option value="">-- Sélectionne une partie --</option>
+        <option value="partie1">Contexte, veille et réseau</option>
+        <option value="partie2">Contractualisation et suivi</option>
+        <option value="partie3">Projet professionnel</option>
+        <option value="partie4">Actions collectives</option>
+        <option value="partie5">Prospection employeurs</option>
+        <option value="partie6">Appui technique au recrutement</option>
+        <option value="partie7">Intégration et maintien</option>
+      </select>
+
+      <div class="question-box" class="hidden">
+        <h3 id="question"></h3>
+        <div id="answer" class="answer"></div>
       </div>
-      <div id="results"></div>
+
+      <button id="showAnswer" class="hidden">Afficher la réponse</button>
+      <button id="nextQuestion" class="hidden">Question suivante</button>
     </div>
     <script src="script.js"></script>
   </body>
