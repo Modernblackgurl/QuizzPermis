@@ -517,7 +517,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '30/ Vérification Extérieure',
       question: "Contrôlez l'état, la propreté et le fonctionnement des feux de position à l'avant et à l'arrière du véhicule.",
-      correctAnswer: 'Les actionner et vérifier si ils sont propres, en bon état et fonctionnent (toute anomalie doit être signalée).',
+      correctAnswer:
+        'Les actionner et vérifier si ils sont propres, en bon état et fonctionnent (toute anomalie doit être signalée). <img src="https://imgs.search.brave.com/rKkiVV0VPCX8H5BVyS3-FqqcxiNpvadOn0MDCc4LFzw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXV0b2RvYy5kZS91/cGxvYWRzL2luZm9f/c2VjdGlvbi9hcnRp/Y2xlLzE5NTkvMTc1/NTA4ODQwNV84NTAx/X2UyMDY1ZTFmOGI0/ZjE2MjRmYTAxN2U4/OTQzYTdmYzliLnBu/Zw" alt="voyant feux de position" >',
     },
     {
       category: '30/ Sécurité Routière',
@@ -701,7 +702,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       category: '40/ Premiers Secours',
-      question: 'Quelles sont les 3 informations à transmettre aux services de secours ?',
+      question: 'Quelles sont les trois informations à transmettre aux services de secours ?',
       correctAnswer: "Le numéro de téléphone à partir duquel l'appel est émis, la nature et la localisation la plus précise du problème.",
     },
     //41
@@ -982,7 +983,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '57/ Vérification Intérieure',
       question: 'Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.',
-      correctAnswer: '',
+      correctAnswer:
+        '<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-profilepics.s3.amazonaws.com%2Fproduction%2Fcdr%2Fimages%2Fattachments%2F000%2F005%2F550%2Foriginal%2F0054cA.jpg%3F1543304517&f=1&nofb=1&ipt=95a3f14aa28e6ca39fa4d51a96571929d269d46bef16ff9e07be28a3b714d1e5" alt="Limiteur de vitesse">',
     },
     {
       category: '57/ Sécurité Routière',
