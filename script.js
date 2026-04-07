@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '13/ Vérification Intérieure',
       question: 'Actionnez le dégivrage de la lunette arrière et montrez le voyant ou le repère correspondant.',
       correctAnswer:
-        "2.  <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud71440_4_1.jpg' alt='Commande dégivrage de la lunette arrière'> <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mn5oNyzH-mVIDqvJFntpZwHaFj%26pid%3DApi&f=1&ipt=ec53277b054b8760470b71c6813a29df48787c9a1a92c66147f1dbc008fe51ad&ipo=images' alt='Voyant dégivrage lunette arrière'>",
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kceedfr.com%2Fimages%2Fdg_givrage_de_la_lunette_arrigere-286%2F1%2Fpage_335.png&f=1&nofb=1&ipt=67a8ae97c5894d3b14363f5bddafd05e93c4932f2845998c55644bc67a9d5e86&ipo=images' alt='Commande dégivrage de la lunette arrière'> <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.6jRBrMy2Tr17T9zpM3sNTQHaDt%3Fpid%3DApi&f=1&ipt=f94e9011fb2b9f527cf79e424b41a68d7839892eb0fe2c05cf8ca66305ce87a8&ipo=images' alt='Voyant dégivrage lunette arrière'>",
     },
     {
       category: '13/ Sécurité Routière',
@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '18/ Vérification Extérieure',
       question: "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l'avant et à l'arrière.",
       correctAnswer:
-        "Vérification des feux, propres, en bon état et fonctionnement (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faaautocarelv.com%2Fwp-content%2Fuploads%2F2018%2F03%2FAA-Auto-Care.jpg&f=1&nofb=1&ipt=3bbfe1d559a58ba14554a0e5222cee7f289a6c0fa5e3578cafa609a57794ef2b&ipo=images' alt='Feux de détresse'>",
+        "Vérification des feux, propres, en bon état et fonctionnement (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.GBZ5ThOnYA0v7Y5Tn04PbAHaE8%3Fpid%3DApi&f=1&ipt=32357084c73df602837e3c498e1b45d7b6533a8513d0238a354f46ea1a629134&ipo=images' alt='Feux de détresse'>",
     },
     {
       category: '18/ Sécurité Routière',
@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '21/ Vérification Intérieure',
       question: "Positionnez la commande pour diriger l'air vers le pare-brise.",
       correctAnswer:
-        "Tournez 1 en position <img class='pictoImg' src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VLlilIgx752wfrmhvhxxfgHaDJ%26pid%3DApi&f=1&ipt=b998fb918f58e14b3f8a7f638bd0e90f8147bbd9a00cc436b3bf60c13af0dd28&ipo=images' alt='Picto désembuage'>. <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud62806_3_1.jpg' alt='Feux de route'>",
+        "Tournez 1 en position <img class='pictoImg' src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VLlilIgx752wfrmhvhxxfgHaDJ%26pid%3DApi&f=1&ipt=b998fb918f58e14b3f8a7f638bd0e90f8147bbd9a00cc436b3bf60c13af0dd28&ipo=images' alt='Picto désembuage'>. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.memrise.com%2Fuploads%2Fthings%2Fimages%2F17280890_130628_2346_31.jpg&f=1&nofb=1&ipt=7f0e1db5725f45b73412cce58eb751bbcaa4ae7c2694e5aa47a4530d11938a11' alt='Commande pour diriger l'air vers le pare-brise'>",
     },
     {
       category: '21/ Sécurité Routière',
@@ -395,7 +395,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '23/ Vérification Intérieure',
       question: "Montrez le voyant d'alerte signalant un défaut de batterie.",
       correctAnswer:
-        "Le candidat montre la jauge. Pas de manipulation exigée. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.MrrtusiyteLLcN3QKseMLgHaEC%26pid%3DApi&f=1&ipt=5556dc191696a0490acb6bed42a7f3baea2ddcd361239f3e0407d828a098e6c1&ipo=images' alt='Voyant défaut de batterie'>",
+        "Le candidat montre la jauge. Pas de manipulation exigée. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.zP3Pr_pcXguNgieiz8UdKQAAAA%3Fpid%3DApi&f=1&ipt=990a52157353c8fccf5bb83045f51da6c0f1791359f853d1796ea25cb9266175&ipo=images'>",
     },
     {
       category: '23/ Sécurité Routière',
@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '25/ Vérification Intérieure',
       question: 'De quelle couleur est le voyant qui indique une défaillance du système de freinage ?',
       correctAnswer:
-        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.-aQ1072SdkyNeQJvz3cYiQHaE7%26pid%3DApi&f=1&ipt=e99146ae9aeb879855e06d024259a082b00424ed47c526ea8bae60361ae6f0b9&ipo=images' alt='Voyant de défaillance du système de freinage'>",
+        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.FzkrLmjHur3LG0sa0TQ5agHaEK%3Fpid%3DApi&f=1&ipt=32af5d5ee840fcc59881f07ba5e0995849b1f34606375d54da0075f97cb0d00c&ipo=images' alt='Voyant de défaillance du système de freinage'>",
     },
     {
       category: '25/ Sécurité Routière',
@@ -447,7 +447,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '26/ Vérification Extérieure',
       question: "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
       correctAnswer:
-        "Allumer les feux de croisement. Vérification des feux, propres en bon état et fonctionnent (toute anomalie doit être signalée). <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud56150_1_1.jpg' alt='Feux de croisement'>",
+        "Allumer les feux de croisement. Vérification des feux, propres en bon état et fonctionnent (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.EfI9dI770UwKiSF18hICIwHaHO%3Fpid%3DApi&f=1&ipt=04210d11f2369a0d0bbbc9d311016f9aa152f08e29352243bd6bc549a1a0e3cb&ipo=images' alt='Feux de croisement'>",
     },
     {
       category: '26/ Sécurité Routière',
@@ -464,7 +464,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '27/ Vérification Intérieure',
       question: "Montrez le voyant d'alerte signalant une température trop élevée du liquide de refroidissement.",
       correctAnswer:
-        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.prismic.io%2Fornikar%2Fc8e71fc360514d1721540bcf19b1e324415dceb4_voyant-liquide-refroidissement.jpg%3Fauto%3Dcompress%2Cformat&f=1&nofb=1&ipt=3411af983cb2f5c64709c4adcd6880ab5a5f3f8962d8767b63089b915926dbf7&ipo=images' alt='Voyant liquide de refroidissement'>",
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.r3C3RCNRETiPD_4Octec-gHaE5%3Fpid%3DApi&f=1&ipt=d58e1334cd6bfc4b2c1a49a1e45e7645db66dbaf2ea4c372dc8b5f29a0f1af9e&ipo=images' alt='Voyant liquide de refroidissement'>",
     },
     {
       category: '27/ Sécurité Routière',
@@ -600,7 +600,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '35/ Vérification Intérieure',
       question: "Sans l'actionner, montrez la commande de l'avertisseur sonore.",
-      correctAnswer: '',
+      correctAnswer:
+        '<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Wj4dhksRaSolQ08293z2sQHaE7%3Fpid%3DApi&f=1&ipt=71d29f60bee47493069b6db93f97f3036b466a26638007effd3e4891f1091d03&ipo=images" alt="avertisseur sonore" >',
     },
     {
       category: '35/ Sécurité Routière',
@@ -724,7 +725,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '42/ Vérification Extérieure',
       question: "Indiquez où se situe la sécurité enfant sur l'une des portières à l'arrière du véhicule.",
       correctAnswer:
-        "<img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud59114_2_2.jpg' alt='Sécurité enfant sur l'une des portières à l'arrière'>",
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.octaviafr.com%2Fimages%2Fbooks%2F1%2F2%2Findex.60.jpg&f=1&nofb=1&ipt=322fe4b245c0d47239ac3db094bd8ad35649a18c7f7a6da5ad7edc7fa126bd4a' alt='Sécurité enfant sur l'une des portières à l'arrière'>",
     },
     {
       category: '42/ Sécurité Routière',
@@ -758,7 +759,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '44/ Vérification Extérieure',
       question: "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul.",
       correctAnswer:
-        "Lui demander d'activer la marche arrière. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée). <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud63280_1_4.jpg' alt='Feux de recul'>",
+        "Lui demander d'activer la marche arrière. Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée). <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fevs-strapi-images-prod.imgix.net%2F0010c_E_22057febb5.jpg%3Fw%3D828%26q%3D75&f=1&nofb=1&ipt=e4f7e884296a9d01d73b89c20a6ad3eaf4c1e9970aaeb9b444e019d4ae68d557' alt='Feux de recul'>",
     },
     {
       category: '44/ Sécurité Routière',
@@ -845,7 +846,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '49/ Vérification Intérieure',
       question: "Montrez la commande de recyclage de l'air.",
       correctAnswer:
-        "4. <img src='https://fr.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud71440_4_1.jpg' alt='Commande de recyclage de l'air'>",
+        "<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.codeenpoche.fr%2Fstatic%2F89323fe223c09b9976ed091e0048d333%2F62aaf%2Fbouton-recyclage-air-ambiant-2.jpg&f=1&nofb=1&ipt=7ed40d89243e5749be94e1363f3c3c24f924b07bfa5e4af502f7b9d23f65b4d0' alt='Commande de recyclage de l'air'>",
     },
     {
       category: '49/ Sécurité Routière',
@@ -878,7 +879,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '51/ Vérification Intérieure',
       question: 'Allumez les feux de route et montrez le voyant correspondant.',
       correctAnswer:
-        "<a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de route. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CCfBH8pYYMQQZ21IQc4VUAHaDa%26pid%3DApi&f=1&ipt=caff6ce0739258f29c03bf7c779a65e485e016a306814f6c0064a108384a3014&ipo=images' alt='Voyant feux de route'>",
+        "<a href='https://www.youtube.com/watch?v=krW2HmgdZic' target='_blank'>Voir la vidéo</a> Voyant feux de route. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.cdnws.com%2F_i%2F80096%2FRAW-1547%2F1820%2F47%2Fdesign-sans-titre.png&f=1&nofb=1&ipt=73978faf8c26d4c78c0b7e97f2aa68046964442e27549b3048e8c75934881cde' alt='Voyant feux de route'>",
     },
     {
       category: '51/ Sécurité Routière',
@@ -946,7 +947,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '55/ Vérification Intérieure',
       question: 'De quelle couleur est le voyant qui indique une défaillance du système de freinage ?',
       correctAnswer:
-        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.-aQ1072SdkyNeQJvz3cYiQHaE7%26pid%3DApi&f=1&ipt=e99146ae9aeb879855e06d024259a082b00424ed47c526ea8bae60361ae6f0b9&ipo=images' alt='Voyant défaillance du système de freinage'>",
+        "Rouge. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mopnantes.fr%2Fwp-content%2Fuploads%2F2024%2F01%2Fvoyant-qui-indique-une-defaillance-du-systeme-de-freinage.jpg&f=1&nofb=1&ipt=b7c242768d52737c69395fe53fdca8813c3970bb79826c0012a8ddb366495dc0' alt='Voyant défaillance du système de freinage'>",
     },
     {
       category: '55/ Sécurité Routière',
@@ -981,8 +982,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '57/ Vérification Intérieure',
       question: 'Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.',
-      correctAnswer:
-        "1. <img src='https://ch.e-guide.renault.com/sites/default/files/uas/fra/BJA/ud68953_5_2.jpg' alt='Commande limiteur de vitesse'> 2. <img src='https://tse2.mm.bing.net/th?id=OIP.lSllvjOw0e5U8QBBsPFbpAHaEJ&pid=Api&P=0&h=180' alt='Commande limiteur de vitesse'>",
+      correctAnswer: '',
     },
     {
       category: '57/ Sécurité Routière',
@@ -998,8 +998,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '58/ Vérification Extérieure',
       question: "Montrez où s'effectue le changement d'une ampoule à l'arrière du véhicule.",
-      correctAnswer:
-        "<a href='https://fr.e-guide.renault.com/fra/Clio-5/FEUX-ARRIERE-ET-LATERAUX-remplacement-des-lampes' target='_blank'>Page de Renault</a>",
+      correctAnswer: "<a href='https://youtu.be/z-i-JDQQuO8?si=pFgHUk147vfAB6Jv' target='_blank'>Youtube vidéo changement ampoule</a>",
     },
     {
       category: '58/ Sécurité Routière',
@@ -1033,7 +1032,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '60/ Vérification Extérieure',
       question: 'Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.',
-      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/COFFRE-BAGAGES' target='_blank'>Page de Renault</a>",
+      correctAnswer: "<a href='https://www.youtube.com/watch?v=bl4mHa642C8' target='_blank'>Youtube ouverture fermeture porte</a>",
     },
     {
       category: '60/ Sécurité Routière',
@@ -1052,7 +1051,7 @@ document.addEventListener('DOMContentLoaded', function () {
       category: '61/ Vérification Intérieure',
       question: 'Indiquez où se situe les attaches de type Isofix dans le véhicule.',
       correctAnswer:
-        "Obligatoire depuis 2011. <a href='https://fr.e-guide.renault.com/fra/Clio-5/SECURITE-ENFANTS-choix-de-la-fixation-du-siege-enfant' target='_blank'>Page de Renault</a>",
+        "Obligatoire depuis 2011. <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.SqNU2YEAsT1fG3Hex-wePwAAAA%3Fpid%3DApi&f=1&ipt=727a5d5b61cb5a0a7176a83e494a89a5ef21509c4b77577934259d9516f79b5d&ipo=images' alt='attaches type Isofix' > ",
     },
     {
       category: '61/ Sécurité Routière',
@@ -1068,7 +1067,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '62/ Vérification Extérieure',
       question: 'Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.',
-      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/COFFRE-BAGAGES' target='_blank'>Page de Renault</a>",
+      correctAnswer: "<a href='https://www.youtube.com/watch?v=bl4mHa642C8' target='_blank'>Youtube ouverture fermeture porte</a>",
     },
     {
       category: '62/ Sécurité Routière',
@@ -1101,7 +1100,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       category: '64/ Vérification Extérieure',
       question: "Procédez à l'ouverture du capot puis à sa fermeture en vous assurant de son verrouillage.",
-      correctAnswer: "<a href='https://fr.e-guide.renault.com/fra/Clio-5/CAPOT-MOTEUR' target='_blank'>Page de Renault</a>",
+      correctAnswer: "<a href='https://youtu.be/3VGuAyKkrzA?si=wWFkLcZJY6OMDjzV' target='_blank'>Youtube ouverture du capot</a>",
     },
     {
       category: '64/ Sécurité Routière',
